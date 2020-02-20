@@ -1,0 +1,19 @@
+D:\DOCUMENTOS\C# 2016 practicas\Trabajo Integrador\MenuPrincipal\obj\Debug\MenuPrincipal.csprojResolveAssemblyReference.cache
+D:\DOCUMENTOS\C# 2016 practicas\Trabajo Integrador\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+D:\DOCUMENTOS\C# 2016 practicas\Trabajo Integrador\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+D:\DOCUMENTOS\C# 2016 practicas\Trabajo Integrador\MenuPrincipal\obj\Debug\MenuPrincipal.exe
+D:\DOCUMENTOS\C# 2016 practicas\Trabajo Integrador\MenuPrincipal\obj\Debug\MenuPrincipal.pdb
+H:\DOCUMENTOS\C# 2016 practicas\Trabajo Integrador\MenuPrincipal\obj\Debug\MenuPrincipal.exe
+H:\DOCUMENTOS\C# 2016 practicas\Trabajo Integrador\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+H:\DOCUMENTOS\C# 2016 practicas\Trabajo Integrador\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+H:\DOCUMENTOS\C# 2016 practicas\Trabajo Integrador\MenuPrincipal\obj\Debug\MenuPrincipal.csprojResolveAssemblyReference.cache
+H:\DOCUMENTOS\C# 2016 practicas\Trabajo Integrador\MenuPrincipal\obj\Debug\MenuPrincipal.pdb
+C:\Users\Cristian\Dropbox\AyP Trabajo Final\Trabajo Integrador\MenuPrincipal\obj\Debug\MenuPrincipal.exe
+C:\Users\Cristian\Dropbox\AyP Trabajo Final\Trabajo Integrador\MenuPrincipal\obj\Debug\MenuPrincipal.pdb
+C:\Users\Alumnos-Unaj\Downloads\Trabajo Integrador\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Alumnos-Unaj\Downloads\Trabajo Integrador\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Alumnos-Unaj\Downloads\Trabajo Integrador\MenuPrincipal\obj\Debug\MenuPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos-Unaj\Downloads\Trabajo Integrador\MenuPrincipal\obj\Debug\MenuPrincipal.exe
+C:\Users\Alumnos-Unaj\Downloads\Trabajo Integrador\MenuPrincipal\obj\Debug\MenuPrincipal.pdb
+G:\DOCUMENTOS\Dropbox\Facultad grupito de estudio\Trabajo Integrador\MenuPrincipal\obj\Debug\MenuPrincipal.exe
+G:\DOCUMENTOS\Dropbox\Facultad grupito de estudio\Trabajo Integrador\MenuPrincipal\obj\Debug\MenuPrincipal.pdb
